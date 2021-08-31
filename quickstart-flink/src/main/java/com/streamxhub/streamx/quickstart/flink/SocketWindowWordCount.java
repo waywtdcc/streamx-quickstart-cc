@@ -17,6 +17,7 @@ public class SocketWindowWordCount {
 
     public static void main(String[] args) throws Exception {
 
+
         // the host and the port to connect to
         final String hostname;
         final int port;
